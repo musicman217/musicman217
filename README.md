@@ -30,10 +30,8 @@ My research focuses on **multimodal representation learning, contrastive learnin
 ## 💼 Professional Experience
 
 ### ![ByteDance](https://img.shields.io/badge/ByteDance-000000?logo=bytedance&logoColor=white) ByteDance | Recommendation & Advertising Algorithm Intern
-**2026 – Present**
 
 ### ![JD.com](https://img.shields.io/badge/JD.com-E11F1D?logo=jd&logoColor=white) JD.com | Recommendation Algorithm Intern (Recall)
-**2025**
 
 ---
 
