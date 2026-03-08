@@ -19,13 +19,11 @@ My research focuses on **multimodal representation learning, contrastive learnin
 *Rebalancing Contrastive Alignment with Bottlenecked Semantic Increments in Text-Video Retrieval*   
 [![Paper](http://img.shields.io/badge/Paper-arxiv.2505.12499-FF6B6B.svg)](https://arxiv.org/abs/2505.12499)  
 - Authors: Jian Xiao, Zhenzhen Hu† (Corresponding author)
-- Conference: NeurIPS 2025
 
 ### 【AAAI 2025】
 *Text Proxy: Decomposing Retrieval from a 1-to-N Relationship into N 1-to-1 Relationships for Text-Video Retrieval*    
 [![Paper](http://img.shields.io/badge/Paper-arxiv.2410.06618-FF6B6B.svg)](https://arxiv.org/abs/2410.06618)
 - Authors: Jian Xiao, Zhenzhen Hu† (Corresponding author)
-- Conference: AAAI 2025
 
 ---
 
