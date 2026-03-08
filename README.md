@@ -31,20 +31,11 @@ My research focuses on **multimodal representation learning, contrastive learnin
 
 ## 💼 Professional Experience
 
-### ![ByteDance](https://img.shields.io/badge/ByteDance-000000?logo=bytedance&logoColor=white) ByteDance | E-commerce Recommendation Algorithm Engineer
+### ![ByteDance](https://img.shields.io/badge/ByteDance-000000?logo=bytedance&logoColor=white) ByteDance | Recommendation & Advertising Algorithm Intern
 **2026 – Present**
-- Recommendation ranking and user behavior modeling
-- Large-scale recommendation system optimization
-
-### ![ByteDance](https://img.shields.io/badge/ByteDance-000000?logo=bytedance&logoColor=white) ByteDance | Advertising Algorithm Intern
-**2025**
-- Advertising creative selection and ranking algorithms
-- Creative optimization & multi-modal feature fusion
 
 ### ![JD.com](https://img.shields.io/badge/JD.com-E11F1D?logo=jd&logoColor=white) JD.com | Recommendation Algorithm Intern (Recall)
 **2025**
-- Large-scale candidate recall algorithm development
-- Retrieval efficiency & accuracy optimization
 
 ---
 
